@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="User Entered Import Resolution" name="https://w3id.org/citydata/part2/" uri="file:/Users/kvaughn/GitHub/ontology-cdm-p2/docs/5087-2.owl"/>
+    <uri id="User Entered Import Resolution" name="https://w3id.org/itsdata/time/" uri="file:/Users/kvaughn/GitHub/ontology-its-time/docs/itsTime.ttl"/>
+    <uri id="User Entered Import Resolution" name="https://w3id.org/itsdata/location/" uri="file:/Users/kvaughn/GitHub/ontology-its-location/docs/itsLocation.ttl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/Time.owl" uri="file:/Users/kvaughn/GitHub/ontology-cdm-p1/docs/Time.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/SpatialLoc.owl" uri="file:/Users/kvaughn/GitHub/ontology-cdm-p1/docs/SpatialLoc.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/Change.owl" uri="file:/Users/kvaughn/GitHub/ontology-cdm-p1/docs/Change.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/Resource.owl" uri="file:/Users/kvaughn/GitHub/ontology-cdm-p1/docs/Resource.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties.owl" uri="file:/Users/kvaughn/GitHub/ontology-cdm-p1/docs/GenericProperties.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/Activity.owl" uri="file:/Users/kvaughn/GitHub/ontology-cdm-p1/docs/Activity.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/Agent" uri="file:/Users/kvaughn/GitHub/ontology-cdm-p1/docs/Agent.owl"/>
+    <uri id="User Entered Import Resolution" name="https://isotc204.org/ontologies/its/time#" uri="../../ontology-its-time/docs/itsTime.ofn"/>
+    <uri id="User Entered Import Resolution" name="https://isotc204.org/ontologies/its/location#" uri="../../ontology-its-location/docs/itsLocation.ofn"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/CityUnits" uri="../../ontologies/docs/imported/CityUnits.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/transinfras" uri="../../ontologies/docs/imported/TransportationInfrastructure.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/code" uri="../../ontologies/docs/imported/Code.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/activity" uri="../../ontologies/docs/imported/Activity.owl"/>
+    <uri id="User Entered Import Resolution" name="https://isotc204.org/25965/transport/transportnetwork#" uri="../../ontologies/docs/imported/transportnetwork.ofn"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-2/ed-1/en/ontology/Code" uri="../../ontologies/docs/imported/Code.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/Mereology" uri="../../ontologies/docs/imported/Mereology.owl"/>
+    <uri id="User Entered Import Resolution" name="https://standards.iso.org/iso-iec/5087/-1/ed-1/en/ontology/GenericProperties" uri="../../ontologies/docs/imported/GenericProperties.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1772663055682" name="https://w3id.org/itsdata/regulation/" uri="itsRegulation.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1772663055682" name="https://w3id.org/itsdata/regulation/v1/" uri="itsRegulation.owl"/>
+    </group>
+</catalog>
